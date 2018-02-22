@@ -13,7 +13,7 @@ package alda.tree;
  * </ul>
  * 
  * @author henrikbe
- * 
+ * @author Arvid Peldán
  * @param <T>
  */
 
